@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Tonalitats blaves  -->
+    <color name="colorPrimary">#07096e</color>
+    <color name="colorPrimaryDark">#d60a3d</color>
+    <color name="colorAccent">#612139</color>
+
+    <!-- Colors for the WhatsApp  -->
+    <color name="backgroundColorTextSent">#aacee6</color>
+    <color name="backgroundColorTextReceived">#efadc6</color>
+
+    <color name="borderColorTextSent">#071b28</color>
+    <color name="borderColorTextReceived">#d20a55</color>
+
+    <color name="borderButton">#1b010b</color>
+    <color name="backgroundButton">#f1e91e</color>
+</resources>

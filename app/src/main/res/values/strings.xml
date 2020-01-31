@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Basic Firebase Services 2019</string>
+    <string name="action_settings">Settings</string>
+    <string name="firebase_services">My Firebase services</string>
+    <string name="home">Home</string>
+    <string name="database">Database services</string>
+    <string name="title_activity_database">Managing the database </string>
+    <string name="updateVersion">Update DB version number</string>
+    <string name="readVersionNumber">Read version number</string>
+    <string name="dbVersionNumber">The DB version number ...</string>
+    <string name="title_activity_my_whats_app">My WhatsApp Activity</string>
+    <string name="whatsapp">My whatsapp</string>
+    <string name="conversa">Write something ...</string>
+    <string name="textSender">The text sent</string>
+    <string name="textReceived">Text received</string>
+    <string name="textSent">Text sent ...</string>
+    <string name="sendText">Send the text</string>
+    <string name="clean">Clean text</string>
+    <string name="title_activity_data_base">Database Activity</string>
+    <string name="button_inc">N++</string>
+    <string name="button_dec">N--</string>
+    <string name="n_value">N value ...</string>
+    <string name="my_whats_app">My WhatsApp</string>
+</resources>
